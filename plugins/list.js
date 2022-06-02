@@ -9,7 +9,7 @@ let moment = require('moment-timezone')
 const { default: Users } = require('node-os-utils/lib/users')
 const defaultMenu = {
   before: `╭────────────────╮
-          ✪  *ᴍɪʟʟɪᴇ* ✪           
+          ✪  *ᴍᴏɴᴜᴢᴢ* ✪           
 ╰────────────────╯
      
 `.trimStart(),
@@ -178,9 +178,9 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
               {
                 "rows": [
                   {
-                    "title": `𝐌𝐈𝐋𝐋𝐈𝐄`,
+                    "title": `𝙼𝙾𝙽𝚄𝚉𝚉`,
                     "description": "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
-                    "rowId": ".git"
+                    "rowId": ".lst quote"
                   },
                   {
                     "title": "𝐒𝐓𝐈𝐂𝐊𝐄𝐑",

@@ -43,13 +43,13 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
+global.linkgc = 'https://chat.whatsapp.com'
+global.linkig = 'https://www.instagram.com'
+global.linkyt = 'https://www.youtube.com'
+global.linkfb = 'https://fb.watch'
+global.git = 'https://github.com'
 global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.url = 'https://chat.whatsapp.com'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'

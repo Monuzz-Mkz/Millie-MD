@@ -52,13 +52,13 @@ global.web1 = 'https://neeraj-x0.github.io/'
 global.url = 'https://chat.whatsapp.com'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
+global.thumburl = process.env.IMAGE || 'https://i.imgur.com/1uDqiJQ.jpeg'
+global.packname = process.env.PACKNAME ||'ᴍᴏɴᴜᴢᴢ'
+global.author = process.env.AUTHOR ||'ᴍᴏɴᴜᴢᴢ'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| 'ᴍᴏɴᴜᴢᴢ'
+global.owner_name = process.env.OWNER_NAME || 'ᴍᴏɴᴜᴢᴢ'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
